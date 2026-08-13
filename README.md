@@ -25,10 +25,7 @@
 <a href=https://www.youtube.com/@Enderman44ZJP>
 <img src="https://img.shields.io/badge/YouTube-%23FF0000.svg?style=for-the-badge&logo=YouTube&logoColor=white">
 </a> 
-<a href=https://www.instagram.com/enderman44zjp/?hl=es>
-<img src= "https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white">
-</a>
-<a href=https://www.tiktok.com/@enderman44zjp>
+
 <img src= "https://img.shields.io/badge/TikTok-%23000000.svg?style=for-the-badge&logo=TikTok&logoColor=white">
 </a>
 <a href=https://www.reddit.com/user/Enderman44ZJP/>
